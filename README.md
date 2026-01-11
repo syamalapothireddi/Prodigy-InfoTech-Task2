@@ -1,5 +1,5 @@
 Prodigy InfoTech Software Development Internship – Task 2
-<br> <img src="https://github.com/syamalapothireddi/Prodigy-InfoTech-Task1/blob/main/task2.png">
+<br> <img src="https://github.com/syamalapothireddi/Prodigy-InfoTech-Task2/blob/main/task2.png">
 
 Welcome to my submission for Task 02 of the Software Development Internship at Prodigy Infotech.
 In this task, I developed a Number Guessing Game that generates a random number and challenges the user to guess it correctly with feedback provided after each attempt.
